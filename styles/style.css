@@ -1,0 +1,16 @@
+body{
+    background-color: #83bbff;
+    background-image: url(../src/images/Captura\ de\ tela\ 2025-06-02\ 133042.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+h1{
+    color: #83bbff;
+    background-color: #585479;
+}
+
+p{
+    color: #7fff00;
+}

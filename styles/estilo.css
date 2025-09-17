@@ -1,0 +1,23 @@
+body {
+    background-color: #f4f4f4;
+}
+    
+h1 {
+    background-image: url(src\images\houses-8618837_1280.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: white;
+}
+
+p {
+    color: #333;
+}
+
+img {
+    width: 150px;
+}
+
+video {
+    width: 100%
+}
